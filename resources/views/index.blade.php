@@ -13,8 +13,8 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
-						</button>
-						<a class="navbar-brand" href="#"><img alt="" src="images/logo.png" /></a>
+						</button> 
+						<a class="navbar-brand" href="#"><img alt="" src="{{ asset ('images/logo.png') }}" /></a>
 					</div>
 					<div class="navbar-collapse collapse">
 						<ul class="nav navbar-nav navbar-right">
@@ -48,35 +48,35 @@
 								<!-- THE FIRST SLIDE -->
 								<li data-transition="3dcurtain-vertical" data-slotamount="10" data-masterspeed="300">
 									<!-- THE MAIN IMAGE IN THE FIRST SLIDE -->
-									<img src="upload/slide1.jpg" />
+									<img src="{{ asset('upload/slide1.jpg') }}" />
 
 									<!-- THE CAPTIONS IN THIS SLDIE -->
 									<div class="caption large_text sfb" data-x="15" data-y="100" data-speed="600" data-start="1200" data-easing="easeOutExpo" data-end="7000" data-endspeed="300" data-endeasing="easeInSine">سلام و به استقبال <span style="color: #ffd83d; font-weight: 700"> Flatible</span></div>
 
 									<div class="caption big_white sft stt" data-x="15" data-y="140" data-speed="500" data-start="1400" data-easing="easeOutExpo" data-end="7100" data-endspeed="300" data-endeasing="easeInSine">این یک تخت سبک طراحی تک صفحه برای شرکت سرد خود را است</div>
 
-									<div class="caption randomrotate" data-x="15" data-y="192" data-speed="600" data-start="1600" data-easing="easeOutExpo" data-end="7300" data-endspeed="300" data-endeasing="easeInSine"><img src="images/slider-icons/slider-icon1.png" alt="Image 2" /></div>
+									<div class="caption randomrotate" data-x="15" data-y="192" data-speed="600" data-start="1600" data-easing="easeOutExpo" data-end="7300" data-endspeed="300" data-endeasing="easeInSine"><img src="{{ asset('images/slider-icons/slider-icon1.png') }}" alt="Image 2" /></div>
 
-									<div class="caption randomrotate" data-x="145" data-y="192" data-speed="600" data-start="1800" data-easing="easeOutExpo" data-end="7400" data-endspeed="300" data-endeasing="easeInSine"><img src="images/slider-icons/slider-icon2.png" alt="Image 3" /></div>
+									<div class="caption randomrotate" data-x="145" data-y="192" data-speed="600" data-start="1800" data-easing="easeOutExpo" data-end="7400" data-endspeed="300" data-endeasing="easeInSine"><img src="{{ asset('images/slider-icons/slider-icon2.png') }}" alt="Image 3" /></div>
 
-									<div class="caption randomrotate" data-x="275" data-y="192" data-speed="600" data-start="2000" data-easing="easeOutExpo" data-end="7500" data-endspeed="300" data-endeasing="easeInSine"><img src="images/slider-icons/slider-icon3.png" alt="Image 4" /></div>
+									<div class="caption randomrotate" data-x="275" data-y="192" data-speed="600" data-start="2000" data-easing="easeOutExpo" data-end="7500" data-endspeed="300" data-endeasing="easeInSine"><img src="{{ asset('images/slider-icons/slider-icon3.png') }}" alt="Image 4" /></div>
 
-									<div class="caption randomrotate" data-x="415" data-y="192" data-speed="600" data-start="2300" data-easing="easeOutExpo" data-end="7600" data-endspeed="300" data-endeasing="easeInSine"><img src="images/slider-icons/slider-icon4.png" alt="Image 5" /></div>
+									<div class="caption randomrotate" data-x="415" data-y="192" data-speed="600" data-start="2300" data-easing="easeOutExpo" data-end="7600" data-endspeed="300" data-endeasing="easeInSine"><img src="{{ asset('images/slider-icons/slider-icon4.png') }}" alt="Image 5" /></div>
 
-									<div class="caption randomrotate" data-x="560" data-y="300" data-speed="600" data-start="2700" data-easing="easeOutExpo" data-end="7800" data-endspeed="300" data-endeasing="easeInSine"><img src="images/slider-icons/arrow-big.png" alt="Image 6" /></div>
+									<div class="caption randomrotate" data-x="560" data-y="300" data-speed="600" data-start="2700" data-easing="easeOutExpo" data-end="7800" data-endspeed="300" data-endeasing="easeInSine"><img src="{{ asset('images/slider-icons/arrow-big.png') }}" alt="Image 6" /></div>
 
-									<div class="caption randomrotate" data-x="660" data-y="290" data-speed="700" data-start="3000" data-easing="easeOutExpo" data-end="7900" data-endspeed="300" data-endeasing="easeInSine"><img src="images/slider-icons/arrow-middle.png" alt="Image 7" /></div>
+									<div class="caption randomrotate" data-x="660" data-y="290" data-speed="700" data-start="3000" data-easing="easeOutExpo" data-end="7900" data-endspeed="300" data-endeasing="easeInSine"><img src="{{ asset('images/slider-icons/arrow-middle.png') }}" alt="Image 7" /></div>
 
-									<div class="caption randomrotate" data-x="713" data-y="265" data-speed="600" data-start="3300" data-easing="easeOutExpo" data-end="8000" data-endspeed="300" data-endeasing="easeInSine"><img src="images/slider-icons/arrow-small.png" alt="Image 8" /></div>
+									<div class="caption randomrotate" data-x="713" data-y="265" data-speed="600" data-start="3300" data-easing="easeOutExpo" data-end="8000" data-endspeed="300" data-endeasing="easeInSine"><img src="{{ asset('images/slider-icons/arrow-small.png') }}" alt="Image 8" /></div>
 
-									<div class="caption randomrotate" data-x="785" data-y="117" data-speed="800" data-start="3700" data-easing="easeOutExpo" data-end="8300" data-endspeed="300" data-endeasing="easeInSine"><img src="images/slider-icons/ipad.png" alt="Image 9" /></div>
+									<div class="caption randomrotate" data-x="785" data-y="117" data-speed="800" data-start="3700" data-easing="easeOutExpo" data-end="8300" data-endspeed="300" data-endeasing="easeInSine"><img src="{{ asset('images/slider-icons/ipad.png') }}" alt="Image 9" /></div>
 
-									<div class="caption randomrotate" data-x="820" data-y="145" data-speed="600" data-start="4000" data-easing="easeOutExpo" data-end="8300" data-endspeed="300" data-endeasing="easeInSine"><img src="upload/photo-ipad.jpg" alt="Image 10" /></div>
+									<div class="caption randomrotate" data-x="820" data-y="145" data-speed="600" data-start="4000" data-easing="easeOutExpo" data-end="8300" data-endspeed="300" data-endeasing="easeInSine"><img src="{{ asset('upload/photo-ipad.jpg') }}" alt="Image 10" /></div>
 								</li>
 								<!-- THE second SLIDE -->
 								<li data-transition="papercut" data-slotamount="15" data-masterspeed="300">
 									<!-- THE MAIN IMAGE IN THE second SLIDE -->
-									<img src="upload/slide1.jpg" />
+									<img src="{{ asset('upload/slide1.jpg') }}" />
 
 									<!-- THE CAPTIONS IN THIS SLDIE -->
 									<div class="caption large_text sfb" data-x="15" data-y="100" data-speed="600" data-start="1200" data-easing="easeOutExpo" data-end="7000" data-endspeed="300" data-endeasing="easeInSine">تخت سبک <span style="color: #ffd83d; font-weight: 700">  طرح</span></div>
@@ -95,12 +95,12 @@
 
 									<div class="caption randomrotate" data-x="650" data-y="75" data-speed="800" data-start="3200" data-easing="easeOutExpo" data-end="8000" data-endspeed="300" data-endeasing="easeInSine"><img src="images/slider-icons/mac.png" alt="Image 9" /></div>
 
-									<div class="caption randomrotate" data-x="669" data-y="93" data-speed="600" data-start="3700" data-easing="easeOutExpo" data-end="8100" data-endspeed="300" data-endeasing="easeInSine"><img src="upload/photo-mac.jpg" alt="Image 10" /></div>
+									<div class="caption randomrotate" data-x="669" data-y="93" data-speed="600" data-start="3700" data-easing="easeOutExpo" data-end="8100" data-endspeed="300" data-endeasing="easeInSine"><img src="{{ asset('upload/photo-mac.jpg') }}" alt="Image 10" /></div>
 								</li>
 								<!-- THE third SLIDE -->
 								<li data-transition="turnoff" data-slotamount="1" data-masterspeed="300">
 									<!-- THE MAIN IMAGE IN THE third SLIDE -->
-									<img src="upload/slide1.jpg" />
+									<img src="{{ asset('upload/slide1.jpg') }}" />
 
 									<div class="caption randomrotate" data-x="225" data-y="130" data-speed="600" data-start="800" data-easing="easeOutExpo" data-end="7300" data-endspeed="300" data-endeasing="easeInSine"><img src="images/slider-icons/slider-icon10.png" alt="Image 2" /></div>
 
@@ -174,7 +174,7 @@
 
 					<div class="projects-container">
 						<div class="project-post web-design nature logo">
-							<img alt="" src="upload/1.jpg" />
+							<img alt="" src="{{ asset('upload/1.jpg') }}" />
 							<div class="project-content">
 								<div class="inner-project">
 									<h3>آیکن های مفید بهینه سازی</h3>
@@ -184,7 +184,7 @@
 							</div>
 						</div>
 						<div class="project-post nature photography business-card">
-							<img alt="" src="upload/2.jpg" />
+							<img alt="" src="{{ asset('upload/2.jpg') }}" />
 							<div class="project-content">
 								<div class="inner-project">
 									<h3>آیکن های مفید بهینه سازی</h3>
@@ -194,7 +194,7 @@
 							</div>
 						</div>
 						<div class="project-post web-design photography">
-							<img alt="" src="upload/3.jpg" />
+							<img alt="" src="{{ asset('upload/3.jpg') }}" />
 							<div class="project-content">
 								<div class="inner-project">
 									<h3>آیکن های مفید بهینه سازی</h3>
@@ -204,7 +204,7 @@
 							</div>
 						</div>
 						<div class="project-post logo brochures business-card">
-							<img alt="" src="upload/4.jpg" />
+							<img alt="" src="{{ asset('upload/4.jpg') }}" />
 							<div class="project-content">
 								<div class="inner-project">
 									<h3>آیکن های مفید بهینه سازی</h3>
@@ -214,7 +214,7 @@
 							</div>
 						</div>
 						<div class="project-post photography logo business-card">
-							<img alt="" src="upload/5.jpg" />
+							<img alt="" src="{{ asset('upload/5.jpg') }}" />
 							<div class="project-content">
 								<div class="inner-project">
 									<h3>آیکن های مفید بهینه سازی</h3>
@@ -224,7 +224,7 @@
 							</div>
 						</div>
 						<div class="project-post web-design nature">
-							<img alt="" src="upload/6.jpg" />
+							<img alt="" src="{{ asset('upload/6.jpg') }}" />
 							<div class="project-content">
 								<div class="inner-project">
 									<h3>آیکن های مفید بهینه سازی</h3>
@@ -234,7 +234,7 @@
 							</div>
 						</div>
 						<div class="project-post web-design logo">
-							<img alt="" src="upload/7.jpg" />
+							<img alt="" src="{{ asset('upload/7.jpg') }}" />
 							<div class="project-content">
 								<div class="inner-project">
 									<h3>آیکن های مفید بهینه سازی</h3>
@@ -244,7 +244,7 @@
 							</div>
 						</div>
 						<div class="project-post photography brochures">
-							<img alt="" src="upload/8.jpg" />
+							<img alt="" src="{{ asset('upload/8.jpg') }}" />
 							<div class="project-content">
 								<div class="inner-project">
 									<h3>آیکن های مفید بهینه سازی</h3>
@@ -254,7 +254,7 @@
 							</div>
 						</div>
 						<div class="project-post web-design nature business-card">
-							<img alt="" src="upload/9.jpg" />
+							<img alt="" src="{{ asset('upload/9.jpg') }}" />
 							<div class="project-content">
 								<div class="inner-project">
 									<h3>آیکن های مفید بهینه سازی</h3>
@@ -264,7 +264,7 @@
 							</div>
 						</div>
 						<div class="project-post web-design photography">
-							<img alt="" src="upload/10.jpg" />
+							<img alt="" src="{{ asset('upload/10.jpg') }}" />
 							<div class="project-content">
 								<div class="inner-project">
 									<h3>آیکن های مفید بهینه سازی</h3>
@@ -274,7 +274,7 @@
 							</div>
 						</div>
 						<div class="project-post logo brochures business-card">
-							<img alt="" src="upload/11.jpg" />
+							<img alt="" src="{{ asset('upload/11.jpg') }}" />
 							<div class="project-content">
 								<div class="inner-project">
 									<h3>آیکن های مفید بهینه سازی</h3>
@@ -284,7 +284,7 @@
 							</div>
 						</div>
 						<div class="project-post brochures business-card">
-							<img alt="" src="upload/12.jpg" />
+							<img alt="" src="{{ asset('upload/12.jpg') }}" />
 							<div class="project-content">
 								<div class="inner-project">
 									<h3>آیکن های مفید بهینه سازی</h3>
