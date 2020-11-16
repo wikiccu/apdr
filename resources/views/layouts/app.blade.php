@@ -3,7 +3,7 @@
 	<!-- Container
             ================================================== -->
             @yield('content')
-   	<!-- End Container -->
+   	<!-- End Container --> 
     @include('layouts._scripts')
 </body>
 </html>

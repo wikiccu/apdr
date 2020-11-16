@@ -398,12 +398,12 @@
 						<p>Proin تعداد بارداری مایل به نویسندهوضعیت موز . Nunc آمت ها Lorem quis نوشیدن نویسنده، مگر این که مهارت بسیار حرفه ای ، و یا فلشچت تصویری با پژوهش . اما این نفرت</p>
 					</div>
 					<div class="row team">
-						<div class="col-md-3">
+						<div class="col-md-4">
 							<div class="team-member">
 								<img alt="" src="images/team-member1.png" />
 								<div class="team-cont">
-									<h3>مت جانسون</h3>
-									<span>مدریت</span>
+									<h3>سعید رستمی</h3>
+									<span>برنامه نویس</span>
 									<ul class="social">
 										<li><a class="fb" href="#"></a></li>
 										<li><a class="twi" href="#"></a></li>
@@ -412,12 +412,12 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-md-3">
+						<div class="col-md-4">
 							<div class="team-member">
 								<img alt="" src="images/team-member2.png" />
 								<div class="team-cont">
-									<h3>مت جانسون</h3>
-									<span>مدریت</span>
+									<h3>مهندس هادی روشن</h3>
+									<span>مدیریت</span>
 									<ul class="social">
 										<li><a class="fb" href="#"></a></li>
 										<li><a class="twi" href="#"></a></li>
@@ -426,26 +426,12 @@
 								</div>
 							</div>
 						</div>
-						<div class="col-md-3">
+						<div class="col-md-4">
 							<div class="team-member">
 								<img alt="" src="images/team-member3.png" />
 								<div class="team-cont">
-								<h3>مت جانسون</h3>
-									<span>طراح</span>
-									<ul class="social">
-										<li><a class="fb" href="#"></a></li>
-										<li><a class="twi" href="#"></a></li>
-										<li><a class="drib" href="#"></a></li>
-									</ul>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-3">
-							<div class="team-member">
-								<img alt="" src="images/team-member4.png" />
-								<div class="team-cont">
-									<h3>باب Roys</h3>
-									<span>منجیر</span>
+								<h3>مهندس محسن شعبانیان</h3>
+									<span>برنامه نویس ارشد</span>
 									<ul class="social">
 										<li><a class="fb" href="#"></a></li>
 										<li><a class="twi" href="#"></a></li>
