@@ -14,15 +14,15 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button> 
-						<a class="navbar-brand" href="#"><img alt="" src="{{ asset ('images/logo.png') }}" /></a>
+						<a class="navbar-brand" style="color: #fff; font-weight: 25px" href="{{ route('home') }}">شرکت کاوشگران البرز</a>
 					</div>
 					<div class="navbar-collapse collapse">
 						<ul class="nav navbar-nav navbar-right">
 							<li><a class="contact-nav" href="#contact">تماس</a></li>
-                            <li><a class="about-nav" href="#about">درباره</a></li>
+                            <li><a class="about-nav" href="#about">درباره ما</a></li>
                             <li><a class="testimonials-nav" href="#testimonials">از زبان مشتریان</a></li>
                             <li><a class="services-nav" href="#services">خدمات</a></li>
-                            <li><a class="portfolio-nav" href="#portfolio">مقام</a></li>
+                            <li><a class="portfolio-nav" href="#portfolio">پروژه ها</a></li>
                             <li><a class="home-nav active" href="#home">خانه</a></li>
 						</ul>
 					</div>
@@ -160,16 +160,13 @@
 				<div class="container">
 					<div class="title-section">
 						<h1>پروژه های اخیر</h1>
-						<p>FlatProin آرزوهای خود را به نویسندهوضعیت موز باردار . Nunc آمت ها Lorem quis نوشیدن نویسنده، مگر این که مهارت بسیار حرفه ای ، و یا فلشچت تصویری با پژوهش . اما این طراحی نفرت</p>
+						<p> برخی از پروژه هایی که در شرکت توسط برنامه نویسان شرکت انجام شده و به مشتریان عزیز تحویل شده است
+						</p>
 					</div>
 					<ul class="filter">
 						<li><a href="#" class="active" data-filter="*">همه دسته بندی ها</a></li>
 						<li><a href="#" data-filter=".web-design">طراحی وب سایت</a></li>
-						<li><a href="#" data-filter=".photography">عکاسی</a></li>
-						<li><a href="#" data-filter=".nature">طبیعت</a></li>
-						<li><a href="#" data-filter=".logo">لوگو</a></li>
-						<li><a href="#" data-filter=".brochures">بروشور</a></li>
-						<li><a href="#" data-filter=".business-card">کارت کسب و کار</a></li>
+						<li><a href="#" data-filter=".app">نرم افزار</a></li>
 					</ul>
 
 					<div class="projects-container">
@@ -394,7 +391,7 @@
 			<div id="about">
 				<div class="container">
 					<div class="title-section">
-						<h1>در باره</h1>
+						<h1>درباره ما </h1>
 						<p>Proin تعداد بارداری مایل به نویسندهوضعیت موز . Nunc آمت ها Lorem quis نوشیدن نویسنده، مگر این که مهارت بسیار حرفه ای ، و یا فلشچت تصویری با پژوهش . اما این نفرت</p>
 					</div>
 					<div class="row team">
@@ -450,10 +447,10 @@
 						</div>
 
 						<div class="col-md-6">
-							<h2>Our Skills</h2>
+							<h2>مهارت ها</h2>
 							<div class="progres-bar">
 								<div class="inner-progress photoshop">
-									<span>فتوشاپ</span>
+									<span>Python</span>
 								</div>
 							</div>
 							<div class="progres-bar">
@@ -468,7 +465,7 @@
 							</div>
 							<div class="progres-bar">
 								<div class="inner-progress ruby">
-									<span>یاقوت</span>
+									<span>Laravel</span>
 								</div>
 							</div>
 						</div>
@@ -483,9 +480,13 @@
 		<div class="section">
 			<div id="contact" class="bg-color">
 				<div class="container">
-					<div class="title-section">
-						<h1>در تماس بودن</h1>
-						<p>Proin تعداد بارداری مایل به نویسندهوضعیت موز . Nunc آمت ها Lorem quis نوشیدن نویسنده، مگر این که مهارت بسیار حرفه ای ، و یا فلشچت تصویری با پژوهش . اما این نفرت</p>
+					<div class="title-section" dir="rtl">
+						<h1>تماس با ما</h1>
+						<p style="font-size: 1.5em">
+							تلفن های تماس : <br>
+							مهندس شعبانیان : <span style="font-size: 1.1em" dir="ltr">0911 392 3310</span> <br>
+							مهندس رستمی : <span style="font-size: 1.1em" dir="ltr">0933 263 6994</span>
+						</p>
 					</div>
 				</div>
 				<div class="map"></div>
@@ -494,9 +495,9 @@
 						<div class="col-md-6">
 							<h2>اطلاعات تماس</h2>
 							<ul>
-								<li><span class="label address">آدرس :</span> <span class="label-information">صندوق پستی 16122 کالینز غرب خیابان ویکتوریا 8007 استرالیا</span></li>
-								<li><span class="label phone">تلفن :</span> <span class="label-information">(900) 1234 5678 900</span></li>
-								<li><span class="label e-mail">آدرس ایمیل :</span> <span class="label-information">youremail@yourdomain.com</span></li>
+								<li><span class="label address">آدرس :</span> <span class="label-information"> آدرس: رامسر - خیابان مطهری - نارنج بن - جنب بانک صادرات مرکزی </span></li>
+								<li><span class="label phone">تلفن :</span> <span dir="ltr" class="label-information">011 5525 9606 </span></li>
+								<li><span class="label e-mail">آدرس ایمیل :</span> <span class="label-information"> info[at]apdr.com </span></li>
 							</ul>
 						</div>
 						<div class="col-md-6">
@@ -530,8 +531,8 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-7">
-							<p>و کپی . 2013 Flatible PSD قالب</p>
-                            <h5>ویرایشگر شهاب محمدخانلو</h5>
+							<p>کلیه حقوق مادی و معنوی برای شرکت کاوشگران البرز محفوظ می باشد
+							</p>
 						</div>
 						<div class="col-md-5">
 							<ul class="social-icons">
