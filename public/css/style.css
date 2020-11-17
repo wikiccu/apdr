@@ -760,15 +760,15 @@ ul.social li a {
 }
 
 ul.social li a.fb {
-    background: #597ac7 url(../images/facebook.png) center center no-repeat;
+    background: #597ac7 url(../images/in.png) center center no-repeat;
 }
 
 ul.social li a.twi {
-    background: #5bbcec url(../images/twitter.png) center center no-repeat;
+    background: #5bbcec url(../images/web.png) center center no-repeat;
 }
 
 ul.social li a.drib {
-    background: #d97ba5 url(../images/dribble.png) center center no-repeat;
+    background: #000 url(../images/git.png) center center no-repeat;
 }
 
 ul.social li a:hover {

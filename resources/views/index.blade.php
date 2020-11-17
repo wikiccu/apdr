@@ -402,9 +402,9 @@
 									<h3>سعید رستمی</h3>
 									<span>برنامه نویس</span>
 									<ul class="social">
-										<li><a class="fb" href="#"></a></li>
-										<li><a class="twi" href="#"></a></li>
-										<li><a class="drib" href="#"></a></li>
+										<li><a class="fb" href="https://www.linkedin.com/in/saeedrostami/"></a></li>
+										<li><a class="twi" href="http://0x5aeed.ir/"></a></li>
+										<li><a class="drib" href="https://github.com/wikiccu"></a></li>
 									</ul>
 								</div>
 							</div>
@@ -416,9 +416,7 @@
 									<h3>مهندس هادی روشن</h3>
 									<span>مدیریت</span>
 									<ul class="social">
-										<li><a class="fb" href="#"></a></li>
-										<li><a class="twi" href="#"></a></li>
-										<li><a class="drib" href="#"></a></li>
+
 									</ul>
 								</div>
 							</div>
@@ -430,9 +428,9 @@
 								<h3>مهندس محسن شعبانیان</h3>
 									<span>برنامه نویس ارشد</span>
 									<ul class="social">
-										<li><a class="fb" href="#"></a></li>
-										<li><a class="twi" href="#"></a></li>
-										<li><a class="drib" href="#"></a></li>
+										<li><a class="fb" href="https://www.linkedin.com/in/mohsenshabanian/"></a></li>
+										<li><a class="twi" href="http://mohsenshabanian.com/"></a></li>
+										<li><a class="drib" href="https://github.com/mohsen12999"></a></li>
 									</ul>
 								</div>
 							</div>
@@ -501,7 +499,7 @@
 							</ul>
 						</div>
 						<div class="col-md-6">
-							<h2>ما ارسال یک پیام</h2>
+							<h2>ارسال پیام</h2>
 							<form id="contact-form" />
 								<div class="row">
 									<div class="col-md-6">
