@@ -174,68 +174,68 @@
 							<img alt="" src="{{ asset('upload/1.jpg') }}" />
 							<div class="project-content">
 								<div class="inner-project">
-									<h3>آیکن های مفید بهینه سازی</h3>
-									<span>آیکون های تخت</span>
+									<h3>نسیم رامسر</h3>
+									<span>وبسایت موسسه نسیم رامسر</span>
 									<a class="link-project" href="#first-popup">مشخصات پروژه</a>								
 								</div>							
 							</div>
 						</div>
-						<div class="project-post nature photography business-card">
+						<div class="project-post nature web-design business-card">
 							<img alt="" src="{{ asset('upload/2.jpg') }}" />
 							<div class="project-content">
 								<div class="inner-project">
-									<h3>آیکن های مفید بهینه سازی</h3>
-									<span>آیکون های تخت</span>
+									<h3>تبارنامه رحیمیان</h3>
+									<span>وب سایت تبارنامه رحیمیان </span>
 									<a class="link-project" href="#first-popup">مشخصات پروژه</a>								
 								</div>						
 							</div>
 						</div>
-						<div class="project-post web-design photography">
+						<div class="project-post web-design ">
 							<img alt="" src="{{ asset('upload/3.jpg') }}" />
 							<div class="project-content">
 								<div class="inner-project">
-									<h3>آیکن های مفید بهینه سازی</h3>
-									<span>flat icons</span>
+									<h3>نون اپ</h3>
+									<span>وب اپ نون </span>
 									<a class="link-project" href="#first-popup">مشخصات پروژه</a>								
 								</div>							
 							</div>
 						</div>
-						<div class="project-post logo brochures business-card">
+						<div class="project-post web-design ">
 							<img alt="" src="{{ asset('upload/4.jpg') }}" />
 							<div class="project-content">
 								<div class="inner-project">
-									<h3>آیکن های مفید بهینه سازی</h3>
-									<span>آیکون های تخت</span>
+									<h3>ویلایاب</h3>
+									<span>وبسایت اجاره ویلا</span>
 									<a class="link-project" href="#first-popup">مشخصات پروژه</a>								
 								</div>							
 							</div>
 						</div>
-						<div class="project-post photography logo business-card">
+						<div class="project-post web-design">
 							<img alt="" src="{{ asset('upload/5.jpg') }}" />
 							<div class="project-content">
 								<div class="inner-project">
-									<h3>آیکن های مفید بهینه سازی</h3>
-									<span>آیکون های تخت</span>
+									<h3>کتابچه</h3>
+									<span>وبسایت کتاب و کتابخوانی</span>
 									<a class="link-project" href="#first-popup">مشخصات پروژه</a>								
 								</div>							
 							</div>
 						</div>
-						<div class="project-post web-design nature">
+						<div class="project-post app">
 							<img alt="" src="{{ asset('upload/6.jpg') }}" />
 							<div class="project-content">
 								<div class="inner-project">
-									<h3>آیکن های مفید بهینه سازی</h3>
-									<span>آیکون های تخت</span>
+									<h3>نرم افزار رمزنگاری فایل</h3>
+									<span>نرم افزار رمزنگاری فایل در ویندوز</span>
 									<a class="link-project" href="#first-popup">مشخصات پروژه</a>								
 								</div>							
 							</div>
 						</div>
-						<div class="project-post web-design logo">
+						<div class="project-post web-design ">
 							<img alt="" src="{{ asset('upload/7.jpg') }}" />
 							<div class="project-content">
 								<div class="inner-project">
-									<h3>آیکن های مفید بهینه سازی</h3>
-									<span>آیکون های تخت</span>
+									<h3>اکسپو</h3>
+									<span>وبسایت نمایشگاه مجازی اکسپو</span>
 									<a class="link-project" href="#first-popup">مشخصات پروژه</a>								
 								</div>							
 							</div>
